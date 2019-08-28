@@ -13,8 +13,9 @@
 
 ---
 
-@fa[fish icon-size2](アイコン)が使えます
-@fa[car-side icon-size4](サイズ)も変更できます
+@fa[fish icon-size1](アイコン)が使えます
+
+@fa[car-side icon-size3](サイズ)も変更できます
 
 ---
 
