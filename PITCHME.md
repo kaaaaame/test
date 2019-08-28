@@ -31,5 +31,27 @@
 
 ---
 
+@snap[north]
+うえ
+@snapend
+
+@snap[south]
+した
+@snapend
+
+@snap[east]
+みぎ
+@snapend
+
+@snap[west]
+ひだり
+@snapend
+
+@snap[midpoint]
+真ん中
+@snapend
+
+---
+
 # 終わり
 ありがとうございました
